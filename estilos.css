@@ -68,3 +68,17 @@ body {
 .paginacion button:hover {
 	background: #137c32;
 }
+
+.overview{
+	cursor: pointer;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	line-clamp: 2;
+	overflow: hidden;
+}
+
+.overview:hover{
+	cursor: default;
+	display: block;
+}
