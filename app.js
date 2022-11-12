@@ -51,4 +51,4 @@ const cargarPeliculas = async()=>{
 
 }
 
- cargarPeliculas();
+cargarPeliculas();
