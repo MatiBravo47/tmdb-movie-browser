@@ -3,7 +3,7 @@
 :construction: Proyecto en construcción :construction:
 
 ## Descripcion del proyecto
-<p>Proyecto donde se consume la API "The Movie Database(TMDB)", API de peliculas, TV y mas. </p>
+<p>Proyecto donde se consume la API "The Movie Database(TMDB)". API de peliculas, TV y mas. </p>
 
 - API utilizada:https://www.themoviedb.org/ 
 
