@@ -10,7 +10,7 @@
 ## 📁 Acceso al proyecto 
 Abrir terminal y ejecutar: 
 ```bash
-git clone https://github.com/MatiBravo47/Object-China.git
+git clone https://github.com/MatiBravo47/API-Vanilla-JS.git
 cd Object-China
 ```
 
