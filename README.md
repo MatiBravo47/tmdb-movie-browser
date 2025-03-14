@@ -8,8 +8,8 @@
 - API utilizada:https://www.themoviedb.org/ 
 
 ## 📁 Acceso al proyecto 
-https://matibravo47.github.io/API---Vanilla-/
-
+git clone https://github.com/MatiBravo47/Object-China.git
+cd Object-China
 
 ### Enlaces de interes 
 - https://javascript.info/async-await
