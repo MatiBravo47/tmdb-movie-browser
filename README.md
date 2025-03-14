@@ -11,7 +11,7 @@
 Abrir terminal y ejecutar: 
 ```bash
 git clone https://github.com/MatiBravo47/API-Vanilla-JS.git
-cd Object-China
+cd .\API-Vanilla-JS\
 ```
 
 para abrir con vscode 
