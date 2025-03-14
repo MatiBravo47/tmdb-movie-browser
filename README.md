@@ -5,6 +5,9 @@
 ## Descripcion del proyecto
 <p>Proyecto donde se consume la API "The Movie Database(TMDB)". API de peliculas, TV y mas. </p>
 
+![image](https://github.com/user-attachments/assets/e3412f92-f15e-47ec-9ccf-7638dc65702b)
+
+
 - API utilizada:https://www.themoviedb.org/ 
 
 ## 📁 Acceso al proyecto 
