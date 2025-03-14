@@ -8,8 +8,17 @@
 - API utilizada:https://www.themoviedb.org/ 
 
 ## 📁 Acceso al proyecto 
+Abrir terminal y ejecutar: 
+```bash
 git clone https://github.com/MatiBravo47/Object-China.git
 cd Object-China
+```
+
+para abrir con vscode 
+
+```bash
+code .
+```
 
 ### Enlaces de interes 
 - https://javascript.info/async-await
