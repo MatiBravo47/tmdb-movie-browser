@@ -14,7 +14,7 @@
 Abrir terminal y ejecutar: 
 ```bash
 git clone https://github.com/MatiBravo47/API-Vanilla-JS.git
-cd .\API-Vanilla-JS\
+cd .\tmdb-movie-browser\
 ```
 
 para abrir con vscode 
