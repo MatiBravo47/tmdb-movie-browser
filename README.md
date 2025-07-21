@@ -13,7 +13,7 @@
 ## 📁 Acceso al proyecto 
 Abrir terminal y ejecutar: 
 ```bash
-git clone https://github.com/MatiBravo47/API-Vanilla-JS.git
+git clone https://github.com/MatiBravo47/tmdb-movie-browser.git
 cd .\tmdb-movie-browser\
 ```
 
