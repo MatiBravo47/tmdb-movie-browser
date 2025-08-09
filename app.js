@@ -17,9 +17,8 @@ btnSiguiente.addEventListener("click", ()=>{
 });
 
 const cargarPeliculas = async()=>{
-
     try{
-        const respuesta = await fetch(`https://api.themoviedb.org/3/movie/popular?api_key=191528030c357419329af1198edbcb24&language=es-MX&page=${pagina}`);
+        const respuesta = await fetch(`https://api.themoviedb.org/3/movie/popular?api_key=e1569e8a90c3306c487fbe9859f56139&language=es-MX&page=${pagina}`);
         console.log(respuesta);
 
         if(respuesta.status === 200){
@@ -43,11 +42,10 @@ const cargarPeliculas = async()=>{
         else if(respuesta.status === 404){ console.log("no disponible");}
         else { console.log("no tengo idea del error");}
     }
-
+    
     catch(error){
         console.log(error.message);
     }
-
 }
 
 cargarPeliculas();
